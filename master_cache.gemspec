@@ -22,6 +22,7 @@ Gem::Specification.new do |gem|
   gem.add_development_dependency 'rake'
   gem.add_development_dependency 'rspec'
   gem.add_development_dependency 'sqlite3'
+  gem.add_development_dependency 'database_cleaner'
   gem.add_development_dependency 'guard'
   gem.add_development_dependency 'rb-fsevent' if RUBY_PLATFORM.include? 'darwin'
   gem.add_development_dependency 'rb-inotify' if RUBY_PLATFORM.include? 'linux'
