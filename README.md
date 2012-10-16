@@ -1,6 +1,8 @@
 # MasterCache
 
-[![Build Status](https://secure.travis-ci.org/DianthuDia/master_cache.png)](http://travis-ci.org/DianthuDia/master_cache) [![Code Climate](https://codeclimate.com/badge.png)](https://codeclimate.com/github/DianthuDia/master_cache)
+[![Build Status](https://secure.travis-ci.org/DianthuDia/master_cache.png)](http://travis-ci.org/DianthuDia/master_cache)
+[![Dependency Status](https://gemnasium.com/DianthuDia/master_cache.png)](https://gemnasium.com/DianthuDia/master_cache)
+[![Code Climate](https://codeclimate.com/badge.png)](https://codeclimate.com/github/DianthuDia/master_cache)
 
 A master record cache plugin
 
